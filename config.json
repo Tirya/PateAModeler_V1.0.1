@@ -1,0 +1,45 @@
+{
+    "prefix": "$",
+    "invite" : "https://discord.com/oauth2/authorize?client_id=790213464172920842&scope=bot&permissions=8",
+    "twitch" : {
+        "url": "https://www.twitch.tv/romega_",
+        "name": "Romega_",
+        "avatar": "https://cdn.discordapp.com/attachments/668209234483216429/670961547446714379/98048017-d4ac-42dc-960e-59ae4e73c2ef-profile_image-70x70.jpeg"
+    },
+    "youtube" : {
+        "url": "https://www.youtube.com/channel/UCa0miVK03CaaosQ8NkRH4dQ",
+        "name": "Roméga_",
+        "avatar": "https://yt3.ggpht.com/ytc/AAUvwngSobeQu0ZtaVOkZA83QpeuoAJMRH3yJsMjgZnYGw=s88-c-k-c0x00ffffff-no-rj"
+    },
+    "channel": {
+        "config": {
+            "authentification": "790201226431037440",
+            "accueil": "790201615062925322",
+            "regle": "790201820029911050",
+            "grade": "790202329679790102",
+            "jeu": "790204344515166208"
+        },
+        "annonce": {
+            "default": "790201456175087647",
+            "TournoisResult": "790201494941990952",
+            "twitch": "790201564211838976",
+            "youtube": "790201694751293480"
+        },
+        "RegleModo": "790203294605770753"
+    },
+    "categorie": {
+        "game": "790204638162452490",
+        "annonce": "790201875626459146",
+        "text": "790198336518750259",
+        "voc": "790198336518750260",
+        "modo": "790203245075234826"
+    },
+    "role": {
+        "verif": "790325896467710022",
+        "modo": "791299939493871629",
+        "everyone": "790198336518750258",
+        "MODOtournois": "796369833754099722"
+    },
+    "guild": "790198336518750258",
+    "AgreeInvite": "false"
+}
